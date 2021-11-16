@@ -31,4 +31,4 @@ def cvedata():
 
 
 if __name__ == "__main__":
-    app.run(host='10.2.194.173', debug=True)
+    app.run(host='1.1.1.1', debug=True)
